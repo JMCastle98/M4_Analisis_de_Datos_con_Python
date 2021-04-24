@@ -2,12 +2,11 @@
 
 
 ## ¡Te damos la bienvenida al repositorio del equipo 7! :cactus:
-### Antes que nada nos gustaría presentarnos. Este equipo esta integrado por:
+### Este equipo esta integrado por:
 
 - Alvarado Flores Edgar
 - Ovando Castillo Juan Miguel
 - Pérez Ruiz Daniel Michell
-
 
 <img src="https://img.youtube.com/vi/bILE5BEyhdo/maxresdefault.jpg" align="right" height="250" width="275">
 
