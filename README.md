@@ -8,7 +8,7 @@
 - Ovando Castillo Juan Miguel
 - Pérez Ruiz Daniel Michell
 
-<img src="https://img.youtube.com/vi/bILE5BEyhdo/maxresdefault.jpg" align="right" height="250" width="275">
+<img src="https://img.youtube.com/vi/bILE5BEyhdo/maxresdefault.jpg" align="right" height="250" width="300">
 
 Y somos estudiantes que formamos parte del curso de Data Analysis que ofrece BEDU como parte de la Beca Santander – BEDU: Disruptive Innovation: Data Science. Durante este curso hemos adquirido una gran variedad de habilidades y herramientas de gran importancia para nuestro aprendizaje sobre el análisis de datos. Para aterrizar los conocimientos de las sesiones del módulo 4, hemos realizado una serie de trabajos denominados *postworks*, la finalidad de este repositorio es entonces; exponer las soluciones a las que hemos llegado como equipo a dichos postworks que serán de gran utilidad para el proyecto final, exponiendo nuestro proceso de aprendizaje y discutiendo las diversas maneras de resolver los problemas.
 
@@ -26,4 +26,4 @@ Y somos estudiantes que formamos parte del curso de Data Analysis que ofrece BED
  - [Proyecto Final: Pikachu](ProyectoFinal/)
 
 El entregable final del Módulo 4 que recopila todo nuestro trabajo se encuentra aquí:
- - [Entregable Final: Análisis de Datos_EdgarAlvarado_JuanOvando_DanielPérez](Entrega_Final_Procesamiento_JuanOvando_DanielPeréz/)
+ - [Entregable Final: Análisis de Datos EdgarAlvarado_JuanOvando_DanielPérez](Entrega_Final_Procesamiento_JuanOvando_DanielPeréz/)
