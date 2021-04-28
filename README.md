@@ -15,14 +15,14 @@ Y somos estudiantes que formamos parte del curso de Data Analysis que ofrece BED
 ### Contenido
 #### Postworks Módulo 4 "Análisis de datos con Python"
 
- - [Postwork Sesión 1: Estimados de Locación y Variabilidad ](Postwork01/) 
- - [Postwork Sesión 2: Introducción a la visualización de datos: Distribuciones](Postwork02/) 
- - [Postwork Sesión 3: Exploración de Variables Categóricas y Análisis Multivariable](Postwork03/)
- - [Postwork Sesión 4: Correlaciones y Regresión Linear Simple](Postwork04/) 
- - [Postworks Sesión 5: Distribuciones muestrales y técnicas de evaluación de modelos](Postwork05) 
- - [Postworks Sesión 6: Visualización de Datos Avanzada](Postwork06) 
- - [Postwork Sesión 7: Pruebas A/B y Procesamiento de Lenguaje Natural](Postwork06/) 
- - [Postwork Sesión 8: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](Postwork08/)
+ - [Postwork Sesión 1: Estimados de Locación y Variabilidad ](Postwork01/Postwork01.ipynb) 
+ - [Postwork Sesión 2: Introducción a la visualización de datos: Distribuciones](Postwork02/Postwork02.ipynb) 
+ - [Postwork Sesión 3: Exploración de Variables Categóricas y Análisis Multivariable](Postwork03/Postwork03.ipynb)
+ - [Postwork Sesión 4: Correlaciones y Regresión Linear Simple](Postwork04/Postwork04.ipynb) 
+ - [Postworks Sesión 5: Distribuciones muestrales y técnicas de evaluación de modelos](Postwork05/Postwork05.ipynb) 
+ - [Postworks Sesión 6: Visualización de Datos Avanzada](Postwork06/Postwork06.ipynb) 
+ - [Postwork Sesión 7: Pruebas A/B y Procesamiento de Lenguaje Natural](Postwork06/Postwork07.ipynb) 
+ - [Postwork Sesión 8: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](Postwork08/Postwork08.ipynb)
  - [Proyecto Final: Pikachu](ProyectoFinal/)
 
 El entregable final del Módulo 4 que recopila todo nuestro trabajo se encuentra aquí:
