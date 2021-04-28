@@ -26,4 +26,4 @@ Y somos estudiantes que formamos parte del curso de Data Analysis que ofrece BED
  - [Proyecto Final: Análisis de datos de Pokémon](ProyectoFinal/)
 
 El entregable final del Módulo 4 que recopila todo nuestro trabajo se encuentra aquí:
- - [Entregable Final: Análisis de Datos EdgarAlvarado_JuanOvando_DanielPérez](Entrega_Final_Análisis_EdgarAlvarado_JuanOvando_DanielPeréz/)
+ - [Entregable Final: Análisis de Datos EdgarAlvarado_JuanOvando_DanielPérez](Entrega_Final_Análisis_EdgarAlvarado_JuanOvando_DanielPeréz/Entrega_Final_Análisis_EdgarAlvarado_JuanOvando_DanielPeréz.ipynb)
