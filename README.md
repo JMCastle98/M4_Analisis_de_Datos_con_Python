@@ -21,7 +21,7 @@ Y somos estudiantes que formamos parte del curso de Data Analysis que ofrece BED
  - [Postwork Sesión 4: Correlaciones y Regresión Linear Simple](Postwork04/Postwork04.ipynb) 
  - [Postworks Sesión 5: Distribuciones muestrales y técnicas de evaluación de modelos](Postwork05/Postwork05.ipynb) 
  - [Postworks Sesión 6: Visualización de Datos Avanzada](Postwork06/Postwork06.ipynb) 
- - [Postwork Sesión 7: Pruebas A/B y Procesamiento de Lenguaje Natural](Postwork06/Postwork07.ipynb) 
+ - [Postwork Sesión 7: Pruebas A/B y Procesamiento de Lenguaje Natural](Postwork07/Postwork07.ipynb) 
  - [Postwork Sesión 8: Introducción a Machine Learning: Clasificación No Supervisada y Supervisada](Postwork08/Postwork08.ipynb)
  - [Proyecto Final: Análisis de datos de Pokémon](ProyectoFinal/)
 
